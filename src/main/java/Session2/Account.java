@@ -13,7 +13,7 @@ The account number (an int)
         The account type (a String)
         The balance (an int)*/
 
-
+//Adding account class because of managing accounts
 
 public class Account {
     private int accountNumber;
